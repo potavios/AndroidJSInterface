@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         webview.addJavascriptInterface(new WebAppInterface(this), "Android");
-        webview.loadUrl("https://potavios.github.io/index.html");
+        webview.loadUrl("https://potavios.github.io/indexa.html");
 
         resultFromWeb = findViewById(R.id.tv_resultFromWeb);
         textToSendToWeb = findViewById(R.id.et_textToWeb);
