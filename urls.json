@@ -58,6 +58,6 @@
 "minClassicVersion": "1.0.0",
 "minExclusiveVersion": "1.0.0",
 "minPrimeVersion": "1.0.1",
-"minSimplificaVersion": "0.1.1",
+"minSimplificaVersion": "4.0.0",
 "enableCredImobiliario": false
 }
