@@ -56,7 +56,7 @@
 "enableThunder": true,
 "DSPhotoLicenseKey": "94kQa1ZTp9R00T0n8YMsuJHBaO8TjX1Gr4qXIf!ub2OgFe8zxph79Px10iaS3D29l?oIy2e3CDAl?s347FzGveoQWAsQXXyCPKuQVOmC!x?XPUIBRFGph5G5A!YuQPjqFZud0wcr0ZEy0zIsm91OQVbng5kPLfXccDiRT9yr0C68qh8h3Ja6BqPgVKr6f8x2nejxMQU2Q0r1qkuDHOygk44cAOu0Z3Y6vsXWImJ!AylNTCVgAGicjZWu9hvVmJWT",
 "minClassicVersion": "1.0.0",
-"minExclusiveVersion": ".0.0",
+"minExclusiveVersion": "0.1.1",
 "minPrimeVersion": "1.0.0",
 "minSimplificaVersion": "3.3593",
 "enableCredImobiliario": false
